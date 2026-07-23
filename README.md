@@ -22,7 +22,7 @@
 
 ## whoami
 
-I build backend systems and AI-powered products — the kind that run in production and move real numbers, not just demos. I'm finishing my **B.Tech in Computer Science** (CGPA 8.79) while shipping enterprise software across three engineering internships, most recently working with data at nine-figure scale.
+I build backend systems and AI-powered products, the kind that run in production and move real numbers, not just demos. I'm finishing my **B.Tech in Computer Science** while shipping enterprise software across three engineering internships, most recently working with data at nine-figure scale.
 
 My centre of gravity is **distributed backend architecture** and **applied AI**: Spring Cloud microservices on one side, LLM agents, RAG and MCP workflows on the other — with cloud infrastructure holding it together.
 
@@ -68,7 +68,7 @@ Production-grade LLM workflows — RAG pipelines, MCP tooling, and agents that d
 
 **📈&nbsp; Data engineering**
 
-Moving from millions of rows to insight — analytical stores, query performance, and clean pipelines.
+Moving from millions of rows to insight (analytical stores, query performance, and clean pipelines).
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ Moving from millions of rows to insight — analytical stores, query performance
 <td width="50%" valign="top">
 
 ### 🍱 &nbsp;Food-Delivery Microservices
-A distributed food-delivery backend built as independent Spring Cloud services — the project where I put microservice theory into practice.
+A distributed food-delivery backend built as independent Spring Cloud services.
 
 **Highlights**
 - Service discovery + API-gateway routing
