@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Let's build something that lasts — open to software engineering roles, 2026">
+  <title>Let's build something that lasts</title>
+  <defs>
+    <linearGradient id="fpanel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10182a"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="ftext" gradientUnits="userSpaceOnUse" x1="300" y1="0" x2="900" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+      <animate attributeName="x1" values="0;300;0" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="600;900;600" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="140" rx="20" fill="url(#fpanel)"/>
+  <rect x="0.5" y="0.5" width="1199" height="139" rx="20" fill="none" stroke="#21262d"/>
+  <text x="600" y="72" text-anchor="middle" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="-0.5" fill="url(#ftext)">Let's build something that lasts.</text>
+  <text x="600" y="106" text-anchor="middle" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="14" letter-spacing="2" fill="#6e7681">OPEN TO SOFTWARE ENGINEERING ROLES · 2026</text>
+</svg>
