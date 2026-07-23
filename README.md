@@ -184,6 +184,7 @@ A modern, fully responsive banking landing page: a study in clean layout, spacin
 `React` · `Tailwind` · `JavaScript` · `Figma`
 
 <a href="https://github.com/Armaan-94/bank_landing_page"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://armaan-94.github.io/bank_landing_page/"><img src="https://img.shields.io/badge/Live_demo-22D3EE?style=flat-square&logo=githubpages&logoColor=0D1117" alt="Live demo" /></a>
 
 </td>
 </tr>
