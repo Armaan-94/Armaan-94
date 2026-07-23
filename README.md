@@ -22,7 +22,7 @@
 
 ## whoami
 
-I build backend systems and AI-powered products — the kind that run in production and move real numbers, not just demos. I'm finishing my **B.Tech in Computer Science** (CGPA 8.79) while shipping enterprise software across three engineering internships, most recently working with data at nine-figure scale.
+I build backend systems and AI-powered products — the kind that run in production and move real numbers, not just demos. I'm finishing my **B.Tech in Computer Science** (CGPA 8.79) while shipping software across five internships spanning backend engineering, applied AI, network automation, and cyber-forensics — most recently working with data at nine-figure scale.
 
 My centre of gravity is **distributed backend architecture** and **applied AI**: Spring Cloud microservices on one side, LLM agents, RAG and MCP workflows on the other — with cloud infrastructure holding it together.
 
@@ -35,14 +35,24 @@ mindset:   design for scale, ship to production, measure the impact
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## What I've shipped
+## Experience
 
-> Impact over feature-lists — a few things I actually built and the difference they made.
+> Impact over titles — five internships across backend, AI, networking, and forensics.
 
-- **Turned 160M+ customer records into decisions.** Built an AI-driven business-intelligence and large-scale data-processing layer that lifted profitability **~18%** across a financial-services line — `Next.js` · `TypeScript` · `Python` · `DuckDB` · AI/ML workflows.
-- **Governed enterprise data for a US client.** Delivered end-to-end metadata and technical-lineage migration into **Collibra DGC**, with `Spring Boot` middleware that parsed Alteryx workflows and published assets through Collibra REST APIs.
-- **Designed a distributed food-delivery platform.** Independent `Spring Cloud` microservices with service discovery, API-gateway routing, centralized config, and secured auth.
-- **Automated the boring parts of enterprise ops.** Production ERP/CRM features and AI communication modules (Voice · SMS · Email · WhatsApp) that cut manual work and consolidated business services.
+**Associate Executive Intern · Software Engineering** — Biocipher Technologies &nbsp;<sub>` Apr–Jul 2026 · Gurugram `</sub>  
+Built an AI-driven business-intelligence layer over **160M+ customer records**, lifting profitability **~18%** across financial services; shipped CRM integrations and AI Voice/SMS/Email/WhatsApp modules. &nbsp;`Next.js` · `TypeScript` · `Python` · `DuckDB`
+
+**Associate Software Engineer Intern** — Dadata Consulting · US enterprise, remote &nbsp;<sub>` Jan–Feb 2026 `</sub>  
+Delivered end-to-end metadata & technical-lineage migration into **Collibra DGC** — Spring Boot middleware parsing Alteryx workflows and publishing assets through Collibra REST APIs. &nbsp;`Spring Boot` · `Python` · `Collibra`
+
+**Software Development Engineer Intern** — BuziBrAIns · remote &nbsp;<sub>` Jul–Oct 2025 `</sub>  
+Turned client requirements into production ERP/CRM features and automated core business workflows with full-stack technologies.
+
+**Network & Wi-Fi Engineering Intern** — VVDN Technologies &nbsp;<sub>` Jul–Aug 2025 `</sub>  
+Wrote Python automation for Wi-Fi performance and protocol validation, improving testing efficiency and diagnostic accuracy across network scenarios.
+
+**Research Intern · Cyber Forensics** — NCFL, Delhi Police &nbsp;<sub>` Jun–Jul 2024 · Delhi `</sub>  
+Built cyber-investigation tooling and performed forensic analysis on real case data — recovered and analyzed **100+ classified files** supporting active investigations.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
@@ -81,7 +91,7 @@ Moving from millions of rows to insight — analytical stores, query performance
 <div align="center">
 
 **Languages & Backend**  
-<img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,nodejs,express&theme=dark" alt="Java, Spring, Python, TypeScript, JavaScript, Node.js, Express" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,flask,ts,js,nodejs,express&theme=dark" alt="Java, Spring, Python, Flask, TypeScript, JavaScript, Node.js, Express" />
 
 **Frontend**  
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="React, Next.js, Tailwind, HTML, CSS" />
@@ -113,58 +123,67 @@ Moving from millions of rows to insight — analytical stores, query performance
 <td width="50%" valign="top">
 
 ### 🍱 &nbsp;Food-Delivery Microservices
-A distributed food-delivery backend built as independent Spring Cloud services — the project where I put microservice theory into practice.
+A distributed food-ordering backend split into independent Spring Cloud services — service discovery, API-gateway routing, a centralized config server, and Spring Security auth. My deep-dive into real microservice architecture.
 
-**Highlights**
-- Service discovery + API-gateway routing
-- Centralized configuration server
-- Secured authentication with Spring Security
+`Java` · `Spring Boot` · `Spring Cloud` · `Spring Security` · `MySQL`
 
-`Spring Boot` · `Spring Cloud` · `Spring Security` · `MySQL`
-
-<a href="https://github.com/Armaan-94?tab=repositories"><img src="https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
+<a href="https://github.com/Armaan-94/Food-Delivery-System"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ &nbsp;Developer Snippet Vault
-A full-stack tool to store, search, and manage reusable code snippets — REST API backend with a responsive, modern UI.
+### 📰 &nbsp;Fake News Detector
+An NLP classifier that flags misleading news — TF-IDF vectorization feeding a Multinomial Naïve Bayes model, wrapped in a Flask web app you can paste an article into.
 
-**Highlights**
-- CRUD + full-text search over snippets
-- Clean REST API with Express
-- Responsive Tailwind interface
+`Python` · `Flask` · `scikit-learn` · `Jupyter`
 
-`React` · `Node.js` · `Express` · `MongoDB` · `Tailwind`
-
-<a href="https://github.com/Armaan-94?tab=repositories"><img src="https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
+<a href="https://github.com/Armaan-94/Fake-News-Detector-AIML"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 &nbsp;Bank Landing Page
-A modern, fully responsive banking landing page — a study in clean layout, spacing, and cross-device polish, designed in Figma and built in React.
+### 🗄️ &nbsp;Developer Snippet Vault
+A full-stack MERN vault for reusable code snippets — syntax highlighting, search and filters over a REST API, with an animated, responsive React UI.
 
-**Highlights**
-- Pixel-consistent responsive layout
-- Component-driven React + Tailwind
-- Figma → code workflow
+`React` · `Node.js` · `Express` · `MongoDB`
 
-`React` · `Tailwind` · `JavaScript` · `Figma`
-
-<a href="https://github.com/Armaan-94?tab=repositories"><img src="https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github&logoColor=white" alt="View code" /></a>
+<a href="https://github.com/Armaan-94/developer-snippet-vault"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://developer-snippet-vault.vercel.app"><img src="https://img.shields.io/badge/Live_demo-22D3EE?style=flat-square&logo=vercel&logoColor=0D1117" alt="Live demo" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 &nbsp;More on the way
-I ship in the open. New work lands on my repositories tab regularly — backend experiments, AI tooling, and the occasional weekend build.
+### 📊 &nbsp;Sorting Visualizer
+An interactive playground that animates how sorting algorithms actually work — comparisons and swaps in real time, with adjustable array size and speed. Built in vanilla JS.
 
-<br/>
+`JavaScript` · `HTML` · `CSS`
 
-<a href="https://github.com/Armaan-94?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-6366F1?style=flat-square&logo=github&logoColor=white" alt="Browse all repositories" /></a>
+<a href="https://github.com/Armaan-94/sorting-visualizer"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://armaan-94.github.io/sorting-visualizer/"><img src="https://img.shields.io/badge/Live_demo-22D3EE?style=flat-square&logo=githubpages&logoColor=0D1117" alt="Live demo" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 &nbsp;Vidyantar
+The production marketing site for Vidyantar, a mentor-led coding-education platform — a content-driven Next.js front end, live on Vercel.
+
+`Next.js` · `React` · `Vercel`
+
+<a href="https://vidyantar-website.vercel.app/"><img src="https://img.shields.io/badge/Live_site-22D3EE?style=flat-square&logo=vercel&logoColor=0D1117" alt="Live site" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 &nbsp;Bank Landing Page
+A modern, fully responsive banking landing page — a study in clean layout, spacing, and cross-device polish, taken from Figma to component-driven React.
+
+`React` · `Tailwind` · `JavaScript` · `Figma`
+
+<a href="https://github.com/Armaan-94/bank_landing_page"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 </tr>
@@ -177,7 +196,7 @@ I ship in the open. New work lands on my repositories tab regularly — backend 
 <div align="center">
 
 <img src="https://img.shields.io/badge/CGPA-8.79%20%2F%2010-6366F1?style=flat-square&labelColor=0D1117" alt="CGPA 8.79 out of 10" />&nbsp;
-<img src="https://img.shields.io/badge/Engineering_internships-3-6366F1?style=flat-square&labelColor=0D1117" alt="3 engineering internships" />&nbsp;
+<img src="https://img.shields.io/badge/Internships-5-6366F1?style=flat-square&labelColor=0D1117" alt="5 internships" />&nbsp;
 <img src="https://img.shields.io/badge/Records_processed-160M%2B-6366F1?style=flat-square&labelColor=0D1117" alt="160M-plus records processed" />&nbsp;
 <img src="https://img.shields.io/badge/Profitability_lift-~18%25-6366F1?style=flat-square&labelColor=0D1117" alt="approximately 18 percent profitability lift" />
 
