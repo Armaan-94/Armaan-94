@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Armaan Punia — Software Engineer building backend, AI and cloud systems" width="100%" />
+<img src="./assets/hero.svg" alt="Armaan Punia, Software Engineer building backend, AI and cloud systems" width="100%" />
 
 <br/>
 
@@ -22,9 +22,9 @@
 
 ## whoami
 
-I build backend systems and AI-powered products — the kind that run in production and move real numbers, not just demos. I'm finishing my **B.Tech in Computer Science** (CGPA 8.79) while shipping software across five internships spanning backend engineering, applied AI, network automation, and cyber-forensics — most recently working with data at nine-figure scale.
+I build backend systems and AI-powered products, the kind that run in production and move real numbers, not just demos. I'm finishing my **B.Tech in Computer Science** while shipping software across five internships that span backend engineering, applied AI, network automation, and cyber-forensics. Most recently, I've been working with data at nine-figure scale.
 
-My centre of gravity is **distributed backend architecture** and **applied AI**: Spring Cloud microservices on one side, LLM agents, RAG and MCP workflows on the other — with cloud infrastructure holding it together.
+My centre of gravity is **distributed backend architecture** and **applied AI**: Spring Cloud microservices on one side, LLM agents, RAG and MCP workflows on the other, with cloud infrastructure holding it together.
 
 ```yaml
 role:      Software Engineer  ·  final-year CS
@@ -37,22 +37,22 @@ mindset:   design for scale, ship to production, measure the impact
 
 ## Experience
 
-> Impact over titles — five internships across backend, AI, networking, and forensics.
+> Impact over titles: five internships across backend, AI, networking, and forensics.
 
-**Associate Executive Intern · Software Engineering** — Biocipher Technologies &nbsp;<sub>` Apr–Jul 2026 · Gurugram `</sub>  
+**Biocipher Technologies** · Associate Executive Intern, Software Engineering &nbsp;<sub>` Apr–Jul 2026 · Gurugram `</sub>  
 Built an AI-driven business-intelligence layer over **160M+ customer records**, lifting profitability **~18%** across financial services; shipped CRM integrations and AI Voice/SMS/Email/WhatsApp modules. &nbsp;`Next.js` · `TypeScript` · `Python` · `DuckDB`
 
-**Associate Software Engineer Intern** — Dadata Consulting · US enterprise, remote &nbsp;<sub>` Jan–Feb 2026 `</sub>  
-Delivered end-to-end metadata & technical-lineage migration into **Collibra DGC** — Spring Boot middleware parsing Alteryx workflows and publishing assets through Collibra REST APIs. &nbsp;`Spring Boot` · `Python` · `Collibra`
+**Dadata Consulting** · Associate Software Engineer Intern · US enterprise, remote &nbsp;<sub>` Jan–Feb 2026 `</sub>  
+Delivered end-to-end metadata and technical-lineage migration into **Collibra DGC**, building Spring Boot middleware that parsed Alteryx workflows and published assets through Collibra REST APIs. &nbsp;`Spring Boot` · `Python` · `Collibra`
 
-**Software Development Engineer Intern** — BuziBrAIns · remote &nbsp;<sub>` Jul–Oct 2025 `</sub>  
+**BuziBrAIns** · Software Development Engineer Intern · remote &nbsp;<sub>` Jul–Oct 2025 `</sub>  
 Turned client requirements into production ERP/CRM features and automated core business workflows with full-stack technologies.
 
-**Network & Wi-Fi Engineering Intern** — VVDN Technologies &nbsp;<sub>` Jul–Aug 2025 `</sub>  
+**VVDN Technologies** · Network & Wi-Fi Engineering Intern &nbsp;<sub>` Jul–Aug 2025 `</sub>  
 Wrote Python automation for Wi-Fi performance and protocol validation, improving testing efficiency and diagnostic accuracy across network scenarios.
 
-**Research Intern · Cyber Forensics** — NCFL, Delhi Police &nbsp;<sub>` Jun–Jul 2024 · Delhi `</sub>  
-Built cyber-investigation tooling and performed forensic analysis on real case data — recovered and analyzed **100+ classified files** supporting active investigations.
+**NCFL, Delhi Police** · Research Intern, Cyber Forensics &nbsp;<sub>` Jun–Jul 2024 · Delhi `</sub>  
+Built cyber-investigation tooling and performed forensic analysis on real case data, recovering and analyzing **100+ classified files** that supported active investigations.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
@@ -71,14 +71,14 @@ Cloud-native design, resilient service boundaries, and the tradeoffs that show u
 
 **🤖&nbsp; Agentic AI**
 
-Production-grade LLM workflows — RAG pipelines, MCP tooling, and agents that do real work reliably.
+Production-grade LLM workflows: RAG pipelines, MCP tooling, and agents that do real work reliably.
 
 </td>
 <td width="33%" valign="top">
 
 **📈&nbsp; Data engineering**
 
-Moving from millions of rows to insight — analytical stores, query performance, and clean pipelines.
+Moving from millions of rows to insight (analytical stores, query performance, and clean pipelines).
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ Moving from millions of rows to insight — analytical stores, query performance
 <td width="50%" valign="top">
 
 ### 🍱 &nbsp;Food-Delivery Microservices
-A distributed food-ordering backend split into independent Spring Cloud services — service discovery, API-gateway routing, a centralized config server, and Spring Security auth. My deep-dive into real microservice architecture.
+A distributed food-ordering backend split into independent Spring Cloud services: service discovery, API-gateway routing, a centralized config server, and Spring Security auth. My deep-dive into real microservice architecture.
 
 `Java` · `Spring Boot` · `Spring Cloud` · `Spring Security` · `MySQL`
 
@@ -133,7 +133,7 @@ A distributed food-ordering backend split into independent Spring Cloud services
 <td width="50%" valign="top">
 
 ### 📰 &nbsp;Fake News Detector
-An NLP classifier that flags misleading news — TF-IDF vectorization feeding a Multinomial Naïve Bayes model, wrapped in a Flask web app you can paste an article into.
+An NLP classifier that flags misleading news: TF-IDF vectorization feeds a Multinomial Naïve Bayes model, wrapped in a Flask web app you can paste an article into.
 
 `Python` · `Flask` · `scikit-learn` · `Jupyter`
 
@@ -145,7 +145,7 @@ An NLP classifier that flags misleading news — TF-IDF vectorization feeding a 
 <td width="50%" valign="top">
 
 ### 🗄️ &nbsp;Developer Snippet Vault
-A full-stack MERN vault for reusable code snippets — syntax highlighting, search and filters over a REST API, with an animated, responsive React UI.
+A full-stack MERN vault for reusable code snippets: syntax highlighting, search and filters over a REST API, and an animated, responsive React UI.
 
 `React` · `Node.js` · `Express` · `MongoDB`
 
@@ -156,7 +156,7 @@ A full-stack MERN vault for reusable code snippets — syntax highlighting, sear
 <td width="50%" valign="top">
 
 ### 📊 &nbsp;Sorting Visualizer
-An interactive playground that animates how sorting algorithms actually work — comparisons and swaps in real time, with adjustable array size and speed. Built in vanilla JS.
+An interactive playground that animates how sorting algorithms actually work: comparisons and swaps in real time, with adjustable array size and speed. Built in vanilla JS.
 
 `JavaScript` · `HTML` · `CSS`
 
@@ -169,7 +169,7 @@ An interactive playground that animates how sorting algorithms actually work —
 <td width="50%" valign="top">
 
 ### 🎓 &nbsp;Vidyantar
-The production marketing site for Vidyantar, a mentor-led coding-education platform — a content-driven Next.js front end, live on Vercel.
+The production marketing site for Vidyantar, a mentor-led coding-education platform: a content-driven Next.js front end, live on Vercel.
 
 `Next.js` · `React` · `Vercel`
 
@@ -179,7 +179,7 @@ The production marketing site for Vidyantar, a mentor-led coding-education platf
 <td width="50%" valign="top">
 
 ### 🏦 &nbsp;Bank Landing Page
-A modern, fully responsive banking landing page — a study in clean layout, spacing, and cross-device polish, taken from Figma to component-driven React.
+A modern, fully responsive banking landing page: a study in clean layout, spacing, and cross-device polish, taken from Figma to component-driven React.
 
 `React` · `Tailwind` · `JavaScript` · `Figma`
 
@@ -201,7 +201,7 @@ A modern, fully responsive banking landing page — a study in clean layout, spa
 <img src="https://img.shields.io/badge/Profitability_lift-~18%25-6366F1?style=flat-square&labelColor=0D1117" alt="approximately 18 percent profitability lift" />
 
 <br/>
-<sub>Numbers that matter more than my commit count — impact shipped across three internships.</sub>
+<sub>Numbers that matter more than my commit count: impact shipped across five internships.</sub>
 
 </div>
 
@@ -223,7 +223,7 @@ A modern, fully responsive banking landing page — a study in clean layout, spa
 
 ## Let's talk
 
-I'm open to **software-engineering roles and internships** and to interesting problems in backend, AI, or infrastructure. The fastest way to reach me:
+I'm open to **software-engineering roles and internships**, and to interesting problems in backend, AI, or infrastructure. The fastest way to reach me:
 
 <div align="center">
 
@@ -235,7 +235,7 @@ I'm open to **software-engineering roles and internships** and to interesting pr
 
 <br/>
 
-<img src="./assets/footer.svg" alt="Let's build something that lasts — open to software engineering roles, 2026" width="100%" />
+<img src="./assets/footer.svg" alt="Let's build something that lasts. Open to software engineering roles, 2026" width="100%" />
 
 <div align="center">
 <sub><img src="https://komarev.com/ghpvc/?username=Armaan-94&label=Profile%20views&color=6366f1&style=flat-square&labelColor=0D1117" alt="Profile views" /></sub>
