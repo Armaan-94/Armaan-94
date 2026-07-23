@@ -176,12 +176,13 @@ I ship in the open. New work lands on my repositories tab regularly — backend 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Armaan-94&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&hide=contribs" alt="Armaan's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan-94&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" alt="Most used languages" />
+<img src="https://img.shields.io/badge/CGPA-8.79%20%2F%2010-6366F1?style=flat-square&labelColor=0D1117" alt="CGPA 8.79 out of 10" />&nbsp;
+<img src="https://img.shields.io/badge/Engineering_internships-3-6366F1?style=flat-square&labelColor=0D1117" alt="3 engineering internships" />&nbsp;
+<img src="https://img.shields.io/badge/Records_processed-160M%2B-6366F1?style=flat-square&labelColor=0D1117" alt="160M-plus records processed" />&nbsp;
+<img src="https://img.shields.io/badge/Profitability_lift-~18%25-6366F1?style=flat-square&labelColor=0D1117" alt="approximately 18 percent profitability lift" />
 
 <br/>
-
-<img src="https://streak-stats.demolab.com/?user=Armaan-94&hide_border=true&background=0D1117&stroke=21262D&ring=818CF8&fire=22D3EE&currStreakLabel=818CF8&sideLabels=C9D1D9&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=6E7681" alt="GitHub streak" width="70%" />
+<sub>Numbers that matter more than my commit count — impact shipped across three internships.</sub>
 
 </div>
 
