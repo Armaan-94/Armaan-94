@@ -207,6 +207,16 @@ A modern, fully responsive banking landing page: a study in clean layout, spacin
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
+## Problem solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Armaan0904/"><img src="./assets/leetcode.svg" alt="LeetCode: 197 solved (167 Easy, 30 Medium), 250 submissions and 173 active days in the past year, 50 Days Badge 2026" width="100%" /></a>
+
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
 ## Contribution graph
 
 <div align="center">
