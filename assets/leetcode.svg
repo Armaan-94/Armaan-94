@@ -423,6 +423,7 @@
     <rect x="1112" y="276" width="16" height="16" rx="3" fill="#161b22"/>
     <rect x="1112" y="296" width="16" height="16" rx="3" fill="#161b22"/>
     <rect x="1112" y="316" width="16" height="16" rx="3" fill="#161b22"/>
+    <rect x="1112" y="336" width="16" height="16" rx="3" fill="#161b22"/>
   </g>
 
   <text x="72" y="390" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#6e7681">Jul</text>
