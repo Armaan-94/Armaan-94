@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-label="LeetCode: 197 problems solved, 230 submissions and 165 active days in the past year">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-label="LeetCode: 197 problems solved, 226 submissions and 164 active days in the past year">
   <title>LeetCode problem-solving activity</title>
   <defs>
     <linearGradient id="lc_panel" x1="0" y1="0" x2="1" y2="1">
@@ -21,7 +21,7 @@
 
   <text x="44" y="126" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-2" fill="url(#lc_num)">197</text>
   <text x="166" y="112" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="15" fill="#8b949e">Solved</text>
-  <text x="166" y="132" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#6e7681">of 4017</text>
+  <text x="166" y="132" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#6e7681">of 4018</text>
 
   <circle cx="292" cy="96" r="4" fill="#22c55e"/>
     <text x="306" y="100" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="15" fill="#8b949e">Easy</text>
@@ -36,11 +36,11 @@
     <circle cx="292" cy="156" r="4" fill="#f43f5e"/>
     <text x="306" y="160" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="15" fill="#8b949e">Hard</text>
     <rect x="392" y="151" width="178" height="9" rx="4.5" fill="#21262d"/>
-    <text x="582" y="160" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#c9d1d9">0<tspan fill="#6e7681"> / 961</tspan></text>
+    <text x="582" y="160" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#c9d1d9">0<tspan fill="#6e7681"> / 962</tspan></text>
 
   <text x="1156" y="60" text-anchor="end" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="15" fill="#8b949e">Total active days</text>
-  <text x="1156" y="112" text-anchor="end" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-1" fill="#c9d1d9">165</text>
-  <text x="1156" y="146" text-anchor="end" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#6e7681">230 submissions · past year</text>
+  <text x="1156" y="112" text-anchor="end" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-1" fill="#c9d1d9">164</text>
+  <text x="1156" y="146" text-anchor="end" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#6e7681">226 submissions · past year</text>
   <g><rect x="983" y="166" width="173" height="30" rx="15" fill="#161b22" stroke="#21262d"/><circle cx="1005" cy="181" r="6" fill="#ffa116"/><text x="1021" y="185" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="13" fill="#c9d1d9">50 Days Badge 2026</text></g>
 
   <text x="44" y="222" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="14" fill="#8b949e">Submission activity<tspan fill="#6e7681">  ·  past year</tspan></text>
@@ -420,6 +420,7 @@
     <rect x="1092" y="356" width="16" height="16" rx="3" fill="#161b22"/>
     <rect x="1112" y="236" width="16" height="16" rx="3" fill="#161b22"/>
     <rect x="1112" y="256" width="16" height="16" rx="3" fill="#161b22"/>
+    <rect x="1112" y="276" width="16" height="16" rx="3" fill="#161b22"/>
   </g>
 
   <text x="72" y="390" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#6e7681">Aug</text>
