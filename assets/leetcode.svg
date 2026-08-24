@@ -21,22 +21,22 @@
 
   <text x="44" y="126" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-2" fill="url(#lc_num)">197</text>
   <text x="166" y="112" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="15" fill="#8b949e">Solved</text>
-  <text x="166" y="132" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#6e7681">of 4029</text>
+  <text x="166" y="132" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#6e7681">of 4033</text>
 
   <circle cx="292" cy="96" r="4" fill="#22c55e"/>
     <text x="306" y="100" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="15" fill="#8b949e">Easy</text>
     <rect x="392" y="91" width="178" height="9" rx="4.5" fill="#21262d"/>
     <rect x="392" y="91" width="31" height="9" rx="4.5" fill="#22c55e"/>
-    <text x="582" y="100" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#c9d1d9">167<tspan fill="#6e7681"> / 960</tspan></text>
+    <text x="582" y="100" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#c9d1d9">167<tspan fill="#6e7681"> / 961</tspan></text>
     <circle cx="292" cy="126" r="4" fill="#f59e0b"/>
     <text x="306" y="130" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="15" fill="#8b949e">Medium</text>
     <rect x="392" y="121" width="178" height="9" rx="4.5" fill="#21262d"/>
     <rect x="392" y="121" width="3" height="9" rx="4.5" fill="#f59e0b"/>
-    <text x="582" y="130" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#c9d1d9">30<tspan fill="#6e7681"> / 2103</tspan></text>
+    <text x="582" y="130" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#c9d1d9">30<tspan fill="#6e7681"> / 2105</tspan></text>
     <circle cx="292" cy="156" r="4" fill="#f43f5e"/>
     <text x="306" y="160" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="15" fill="#8b949e">Hard</text>
     <rect x="392" y="151" width="178" height="9" rx="4.5" fill="#21262d"/>
-    <text x="582" y="160" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#c9d1d9">0<tspan fill="#6e7681"> / 966</tspan></text>
+    <text x="582" y="160" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="13" fill="#c9d1d9">0<tspan fill="#6e7681"> / 967</tspan></text>
 
   <text x="1156" y="60" text-anchor="end" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="15" fill="#8b949e">Total active days</text>
   <text x="1156" y="112" text-anchor="end" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-1" fill="#c9d1d9">161</text>
@@ -419,6 +419,7 @@
     <rect x="1092" y="336" width="16" height="16" rx="3" fill="#161b22"/>
     <rect x="1092" y="356" width="16" height="16" rx="3" fill="#161b22"/>
     <rect x="1112" y="236" width="16" height="16" rx="3" fill="#161b22"/>
+    <rect x="1112" y="256" width="16" height="16" rx="3" fill="#161b22"/>
   </g>
 
   <text x="72" y="390" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="12" fill="#6e7681">Aug</text>
