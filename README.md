@@ -22,12 +22,12 @@
 
 ## whoami
 
-I build backend systems and AI-powered products, the kind that run in production and move real numbers, not just demos. I'm finishing my **B.Tech in Computer Science** while shipping software across five internships that span backend engineering, applied AI, network automation, and cyber-forensics. Most recently, I've been working with data at nine-figure scale.
+I build backend systems and AI-powered products, the kind that run in production and move real numbers, not just demos. I hold a **B.Tech in Computer Science** and have shipped software across five internships that span backend engineering, applied AI, network automation, and cyber-forensics. Most recently, I've been working with data at nine-figure scale.
 
 My centre of gravity is **distributed backend architecture** and **applied AI**: Spring Cloud microservices on one side, LLM agents, RAG and MCP workflows on the other, with cloud infrastructure holding it together.
 
 ```yaml
-role:      Software Engineer  ·  final-year CS
+role:      Software Engineer
 strengths: [ distributed backend, applied AI, data engineering, cloud ]
 stack:     Java · Spring Cloud · Python · TypeScript · Next.js · AWS
 mindset:   design for scale, ship to production, measure the impact
