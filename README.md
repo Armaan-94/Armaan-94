@@ -39,8 +39,8 @@ mindset:   design for scale, ship to production, measure the impact
 
 > Impact over titles: five internships across backend, AI, networking, and forensics.
 
-**Biocipher Technologies** · Associate Executive Intern, Software Engineering &nbsp;<sub>` Apr–Aug 2026 · Gurugram `</sub>  
-Built an AI-driven business-intelligence layer over **160M+ customer records**, lifting profitability **~18%** across financial services; shipped CRM integrations and AI Voice/SMS/Email/WhatsApp modules. &nbsp;`Next.js` · `TypeScript` · `Python` · `DuckDB`
+**Biocipher Technologies** · Associate Executive Intern, Software Engineering &nbsp;<sub>` Apr–Oct 2026 · Gurugram `</sub>  
+Built an AI-driven business-intelligence layer over **160M+ customer records**, lifting profitability across financial services; shipped CRM integrations and AI Voice/SMS/Email/WhatsApp modules. &nbsp;`Next.js` · `TypeScript` · `Python` · `DuckDB`
 
 **Dadata Consulting** · Associate Software Engineer Intern · US enterprise, remote &nbsp;<sub>` Jan–Feb 2026 `</sub>  
 Delivered end-to-end metadata and technical-lineage migration into **Collibra DGC**, building Spring Boot middleware that parsed Alteryx workflows and published assets through Collibra REST APIs. &nbsp;`Spring Boot` · `Python` · `Collibra`
@@ -199,7 +199,7 @@ A modern, fully responsive banking landing page: a study in clean layout, spacin
 <img src="https://img.shields.io/badge/CGPA-8.77%20%2F%2010-6366F1?style=flat-square&labelColor=0D1117" alt="CGPA 8.77 out of 10" />&nbsp;
 <img src="https://img.shields.io/badge/Internships-5-6366F1?style=flat-square&labelColor=0D1117" alt="5 internships" />&nbsp;
 <img src="https://img.shields.io/badge/Records_processed-160M%2B-6366F1?style=flat-square&labelColor=0D1117" alt="160M-plus records processed" />&nbsp;
-<img src="https://img.shields.io/badge/Profitability_lift-~18%25-6366F1?style=flat-square&labelColor=0D1117" alt="approximately 18 percent profitability lift" />
+<img src="https://img.shields.io/badge/Work_experience-1_year%2B-6366F1?style=flat-square&labelColor=0D1117" alt="over one year of work experience" />
 
 <br/>
 <sub>Numbers that matter more than my commit count: impact shipped across five internships.</sub>
